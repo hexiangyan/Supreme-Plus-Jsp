@@ -10,11 +10,12 @@ When the plan A is over.
 Its up to you guys to do some more chanllenging jobs or not.
 
 Anyway, have a good time~  
-
 ---------------------------------------------------------------------------------------------------------------------------------------
-
 任务1 ：11.20- 11.27
 概要：掌握 Github网站和桌面版的基本使用， 代码编辑器Atom的基本使用。
+
+Github桌面版下载：https://desktop.github.com     进去后点那个紫色按钮（download for Windows）就好了。
+Atom编辑器下载：https://pan.baidu.com/s/1gXQIHRzq-dVy14V1VQJo0w   我上传到网盘了，七天后失效。/ 或者官网https://atom.io 里面下载也可以。
 
 ——GitHub网站
 这是一个帮助我们进行协同开发的软件，它本身是一个存放代码的地方，能够记录代码的历代版本。
